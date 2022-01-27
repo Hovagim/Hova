@@ -1,4 +1,4 @@
-- 👋 I’m @Hovagim
+- 👋 I’m @Hova
 - 👀 I’m interested in Data Science, Healthcare & Medical research, Neuroscience, and any other scientific puzzle that requires Creating Thinking!
 - 🌱 I’m currently completing a Data Science course using Python
 - 💞️ I’m looking to collaborate on any data Science project using Python or Matlab
